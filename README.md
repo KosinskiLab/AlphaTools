@@ -10,4 +10,12 @@ AlphaFold code
 
 https://github.com/deepmind/alphafold
 
-and so on?
+ColabFold
+=========
+
+https://github.com/sokrypton/ColabFold
+
+OpenFold
+========
+
+https://github.com/aqlaboratory/openfold
