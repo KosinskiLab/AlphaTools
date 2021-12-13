@@ -20,6 +20,20 @@ OpenFold
 
 https://github.com/aqlaboratory/openfold
 
+Uni-Fold
+========
+
+Modified the open-source code of DeepMind AlphaFold v2.0 and code to train the model from scratch
+
+https://github.com/deepmodeling/Uni-Fold
+
+AlphaFold-analysis
+==================
+
+Collection of scripts to survey a directory of alphafold multimer runs. It will go in each directory and make pLDDT and PAE plots delimited by sequence, provided the results directory contains a .fasta of the sequence. Will make all summary files and plot all PAE, pLDDT etc.
+
+https://github.com/grandrea/Alphafold-analysis
+
 RoseTTAFold
 ===========
 
