@@ -18,6 +18,8 @@ https://github.com/sokrypton/ColabFold
 OpenFold
 ========
 
+A PyTorch reproduction of DeepMind's AlphaFold 2 and code to train the model.
+
 https://github.com/aqlaboratory/openfold
 
 Uni-Fold
@@ -26,6 +28,13 @@ Uni-Fold
 Modified the open-source code of DeepMind AlphaFold v2.0 and code to train the model from scratch
 
 https://github.com/deepmodeling/Uni-Fold
+
+alphafold-multistate
+====================
+
+Multi-state modeling of protein structures using AlphaFold based on custom template databases
+
+https://github.com/huhlim/alphafold-multistate
 
 AlphaFold-analysis
 ==================
