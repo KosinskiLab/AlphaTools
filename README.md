@@ -68,6 +68,11 @@ Code for modeling multiple conformations with AlphaFold for this paper: https://
 
 https://github.com/delalamo/af2_conformations
 
+Extract protein domains from PAE plots
+======================================
+
+https://github.com/tristanic/pae_to_domains
+
 Watch list:
 ===========
 
