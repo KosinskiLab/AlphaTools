@@ -29,6 +29,13 @@ Modified the open-source code of DeepMind AlphaFold v2.0 and code to train the m
 
 https://github.com/deepmodeling/Uni-Fold
 
+AF2Complex
+==========
+
+AF2Complex is an enhanced version of AlphaFold with many features useful for real-world application scenarios
+
+https://github.com/FreshAirTonight/af2complex
+
 alphafold-multistate
 ====================
 
