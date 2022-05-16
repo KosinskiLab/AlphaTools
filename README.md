@@ -50,6 +50,20 @@ Collection of scripts to survey a directory of alphafold multimer runs. It will 
 
 https://github.com/grandrea/Alphafold-analysis
 
+AF2plots
+========
+
+Drawing PAE and MSA plots
+
+https://git.embl.de/gchojnowski/af2plots
+
+AF2wrapper
+==========
+
+Run AlphaFold2 and ColabFold locally using common command line interface
+
+https://git.embl.de/gchojnowski/af2wrapper
+
 RoseTTAFold
 ===========
 
